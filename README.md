@@ -8,3 +8,6 @@ I am mainly working through the Udemy "Web Development Bootcamp", which is taugh
 
 EVERYONE out there seems to agree that you should keep a coding journal and "learn in public", as they say, so here we go. I initially started keeping a log of sorts about everything I learn in OneNote, which I can recommend whole heartedly because it lets you keep screenshots and take detailed notes, but I want to keep a parallel journal/log (journal sounds very much like "diary", to my ears anyway) and this is going to be focused on coding rather than on "Dear Diary" moments ;)
 
+27 April
+
+Today involved travelling back from Georgia to Germany and that meant that I did not have any time to code. So I decided to review the lessons on databases from Udemy.
