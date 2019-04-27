@@ -10,4 +10,4 @@ EVERYONE out there seems to agree that you should keep a coding journal and "lea
 
 27 April
 
-Today involved travelling back from Georgia to Germany and that meant that I did not have any time to code. So I decided to review the lessons on databases from Udemy.
+Today involved travelling back from Georgia to Germany and that meant that I did not have any time to code. So I decided to review the lessons on databases from Udemy. Besides freeCodeCmap, I am also working my way through Udemy's "The Complete 2019 Web Development Bootcamp", which is taught by Angela Yu, and which I really highly recommend. She is GREAT! You learn so much. She goes through front and back end development in a lot of detail with loads of projects you do along the way (I am really fond of this course! It is the one course that has got me stuck with coding) - anyways, during the backend part of the course you learn all about mongoDB and mongoose, so I reviewed all my notes that I was taking while working through the lessons.
