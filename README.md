@@ -37,3 +37,10 @@ test
 MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.test.find()
 { "_id" : ObjectId("5cdb19091c9d44000000267d"), "newData" : "Welcome to your database!" }
 
+18 May
+
+I'm at a friend's place over the weekend and dont have my laptop with me but read articles and blog posts about coding, so my brain is forced to deal with a sibject matter on a daily basis. i just opened the freeCodeCamp email from Thursday and read a blod post written by Vid who taught himself how to code through - among other things - freeCodeCamp. He also mentioned two resources I wasn't familiar with:
+- Codewars
+- The You Dont Know JS book series
+
+Both of which sound absolutely great! I am going to get on that right away. Of course it is best to have a computer in front of you and write a few lines of code (at least!) every day but for those days and times when your own schedule seems to be working against your coding journey, those resources I can fall back on and practice a wee bit whenever I have a moment to breathe. Plus, I found Vid's story very motivational and it has energised me to code even more now. i admit after the forst few months of the year where I longed to go back home to code for hours on end, now some weeks have crept in where I didn't do much, sometimes the bare 20 minute minimum recommended by Angela, sometimes not even that. But I love it so much and want to keep at it and improve more drastically than I might have done over the last month or so, and Vid's story has motivated me to pursue that :)
