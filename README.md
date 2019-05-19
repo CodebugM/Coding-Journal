@@ -44,3 +44,7 @@ I'm at a friend's place over the weekend and dont have my laptop with me but rea
 - The You Dont Know JS book series
 
 Both of which sound absolutely great! I am going to get on that right away. Of course it is best to have a computer in front of you and write a few lines of code (at least!) every day but for those days and times when your own schedule seems to be working against your coding journey, those resources I can fall back on and practice a wee bit whenever I have a moment to breathe. Plus, I found Vid's story very motivational and it has energised me to code even more now. i admit after the forst few months of the year where I longed to go back home to code for hours on end, now some weeks have crept in where I didn't do much, sometimes the bare 20 minute minimum recommended by Angela, sometimes not even that. But I love it so much and want to keep at it and improve more drastically than I might have done over the last month or so, and Vid's story has motivated me to pursue that :)
+
+19 MAY
+
+So I put my new resolutions to practice right away and started reading the JDKJS. It was written for people who are just starting out with JS - or the first book is anyway - but I have to say although I have done intermediate JS on the Udemy web development course I look forward to building my knowledge of the essentials and understand why things they work they do. Plus, the books give me a chance to learn about JS even on the days when I do more front end development for static websites. 
