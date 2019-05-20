@@ -76,3 +76,33 @@ I know now that an *interpreter* translates every line of code from top to botto
 
 To make it not too easy on us (reasonably) newbies to it all, JavaScript  actually uses a hybrid of the two methods: The JS engine compiles the source code as we go along and the immediately executes it, which gives it the effect of an interpreted code.
 
+Output
+
+Dissecting the console.log() statement, by using the example console.log(b): 
+The log(b) is the function call that we are handing the b variable to.
+The console. part is an *object reference* where the log(..) function is located.
+
+Input
+
+While the most common form to get input from the user is to have an HTML form and then have JS read and interpret the values that the user puts in, for the purposes of learning JavaScript - especially when working in the developer console of browsers a lot - is the prompt(..) function. The prompt(..) function prints whatever is passed over to it as a request to the user into a pop up window. For example, these lines of code
+
+age = prompt(“Please tell me your age: ”);
+console.log(age);
+
+creates a pop up window with the instructions “Please tell me your age:” and a text box for the user to put in an answer.
+
+
+Once the user submits their answer by clicking “OK” the value they out in is stored in the variable age.
+
+So because our second line of code asks the computer to print the value stored in variable age to the screen, that value is logged to the console.
+
+Operators
+
+Right, I knew the syntax for assigning variables is that you have the variable name on the left-hand side of the equal sign and the value you want to assign o it on the right-hand side (this may also be an expression).
+
+Also, remember to use the keyword var to declare a new variable but you only need to declare it once within the scope of a programme.
+
+var a = 20;
+a = a + 1;
+a = a * 2;
+console.log(a);        // 42 
