@@ -47,4 +47,32 @@ Both of which sound absolutely great! I am going to get on that right away. Of c
 
 19 MAY
 
-So I put my new resolutions to practice right away and started reading the JDKJS. It was written for people who are just starting out with JS - or the first book is anyway - but I have to say although I have done intermediate JS on the Udemy web development course I look forward to building my knowledge of the essentials and understand why things they work they do. Plus, the books give me a chance to learn about JS even on the days when I do more front end development for static websites. 
+So I put my new resolutions to practice right away and started reading the JDKJS. It was written for people who are just starting out with JS - or the first book is anyway - but I have to say although I have done intermediate JS on the Udemy web development course I look forward to building my knowledge of the essentials and understand why things they work they do. Plus, the books give me a chance to learn about JS even on the days when I do more front end development for static websites.
+
+20 May
+
+So as I am going through JDKJS, I am going to take note of the things I am learning as I go along, specifically the concepts I am not familiar with. I am starting with book one, “Up & Going”, and with very basic concepts. Many of those I have used before and I generally know how they work but it’s still useful to have someone go through them in detail and explain everything - I can already tell I am going to pick up a lot of new knowledge, even of concepts I thought I knew well.
+
+What I learned today:
+- There are different types of expressions
+- Compiler vs interpreter
+
+Different types of expressions
+
+Before, I thought all expressions were just, well, expressions but as it turns out there are different kinds, e.g.
+
+- Literal expression, like the value 2
+- Variable expression, like the variable b
+- Arithmetic expression, like the multiplication b * 2
+- Assignment expression, like the assignment of the result of b * 2 to the variable a in a = b * 2
+- Expression statement, like the stand-alone general expression b * 2
+- Call expression, like the entire function being the call expression itself like in: alert(a);
+
+The difference between a compiler and an interpreter
+
+I knew that the computer has to translate the code we write in human-legible programming languages (JS, Python, C#) into ones and zeros before it can run the code but I thought this was always done more or less the same way.
+
+I know now that an *interpreter* translates every line of code from top to bottom line by line while a *compiler* translates everything at once so that later when the programme is run, the code the instructions to the computer have already been compiled and are ready to go.
+
+To make it not too easy on us (reasonably) newbies to it all, JavaScript  actually uses a hybrid of the two methods: The JS engine compiles the source code as we go along and the immediately executes it, which gives it the effect of an interpreted code.
+
