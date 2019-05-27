@@ -106,3 +106,11 @@ var a = 20;
 a = a + 1;
 a = a * 2;
 console.log(a);        // 42 
+
+27 May
+
+Just some freeCodeCamp JavaScriptin' for me tonight. I am having a busy time at work and with organising my international move - not to mention moving out of my apartment and DECLUTTERING my life - I have an insane amount of work and organising to do aside from my day job and some coding. But I squeeze in a few minutes of coding whenever I can and fCC is absolutely perfect for that. Talk about bite-sized chunks of information to absorb. 
+
+Having completed the freeCodeCamp Responsive Web Design Certification - yay me :) I am actually proud of that! - I am now moving on to the JavaScript section of the fCC curriculum. I have covered a lot of JS in the Udemy Web Development course as well but it will serve me well to repeat many of the concepts because learning about them - and even applying them, only  a couple of times as part of a project and then moving on to the next topic on the web development curriculum doesn't really burn them into your brain yet. Or for me it doesn't anyway. I have "a memory like a cullinder", as we say, and need to repeat everything multiple times for my brain to learn it.
+
+So it works out well that I am going through the FCC JavaScript part of the curriculum at the same time that I am reading through YDKJS.
