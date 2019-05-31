@@ -118,3 +118,7 @@ So it works out well that I am going through the FCC JavaScript part of the curr
 28 May
 
 So Quincy Larson just interviewed Saron Yitbarek on the latest episode of the freeCodeCamp podcast. Her story of how she got into tech and all the things she is working on is really impressive! I also had a listen to her own podcast, CodeNewbie, specifically the interview with David Mallan who teaches the Harvard Uni CS50 course which I began learning with back in 2014 (!). I didn't finish it but I made it through a number of problem sets the summer before my own postgrad degree started. Then the craziness of my own degree kicked in and I spent all my time studying for that. I really enjoyed both interviews though, the one with Saron and the one with David, because listening to these always gets me motivated to continue working on my own coding, even after a day spent working and taking the train to another city for a vocational training course tomorrow.
+
+30 May
+
+Spent a large part of the bank holiday coding and working on my own blog (as well as going through some Udemy lectures) but I forgot to upload my work to GitHub... - so my streak is broken. Again. Not the first time this has happened haha #programmersproblems Oh well, as long as I do something coding-related every day, and on the days wehere I can't / don't have the time to prgram listen to podcasts or read articles on the subject.
