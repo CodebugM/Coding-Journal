@@ -122,3 +122,7 @@ So Quincy Larson just interviewed Saron Yitbarek on the latest episode of the fr
 30 May
 
 Spent a large part of the bank holiday coding and working on my own blog (as well as going through some Udemy lectures) but I forgot to upload my work to GitHub... - so my streak is broken. Again. Not the first time this has happened haha #programmersproblems Oh well, as long as I do something coding-related every day, and on the days wehere I can't / don't have the time to prgram listen to podcasts or read articles on the subject.
+
+1 June
+
+- learning about RESTful APIs as part of my Udemy course on full stack web development
