@@ -126,3 +126,29 @@ Spent a large part of the bank holiday coding and working on my own blog (as wel
 1 June
 
 - learning about RESTful APIs as part of my Udemy course on full stack web development
+
+13 June 
+
+Salting and bcrypt
+
+Passwords created by humans tend to be easily hackable because they tend to be short and they tend to be dictionary words.
+
+No matter how insecure the user's password is, adding the salt increases its complexity and its number of characters.
+
+If we use our table from before and salt the users passwords and then create the passwords out of these salts, we can see that the hashes of users 1,2 and 4 (that used to be the same) are now completely different. To each of their passwords we appended a random salt before we hashed them.
+
+The salt is something the user doesn't have to remember and we simply store the salt and the hash in our database. 
+
+However, with the latest CPUs where we can create 20,000,000,000 MD5 hashes per second, it would still be relatively easy to create a hash table using all different salt combinations - even after we increased the complexity of the passwords by adding the salts.
+
+The way we can solve this problem is by using not MD5 as a hashing algorithm but bcrypt, which is valued because it's incredibly slow. Bcrypt is an industry standard hashing algorithm used by developers to keep their users' passwords safe.
+
+Creating a hash table that would take you 3 seconds with MD5 would take you something like 8 months with bcrypt.
+
+Bcrypt also comes with an additional concepts, salt rounds. The more salt rounds you add, the more secure is your password.
+
+Remember Moore's law that says that every year computers get twice as fast and that new power only costs half of what it cost the previous year. Every year you can get more computing powers for less money.
+
+Bcrypt is genius because it lets you set the number of salt rounds. If you set it to 10 rounds this year, maybe next year you set it to 12. Every time you had a salt round, the amount of time it takes to decrypt the password doubles. So every year you don't have to update your algorithm or change your code but simply change one number to keep up with the times.
+
+
