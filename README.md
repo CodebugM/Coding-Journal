@@ -151,4 +151,6 @@ Remember Moore's law that says that every year computers get twice as fast and t
 
 Bcrypt is genius because it lets you set the number of salt rounds. If you set it to 10 rounds this year, maybe next year you set it to 12. Every time you had a salt round, the amount of time it takes to decrypt the password doubles. So every year you don't have to update your algorithm or change your code but simply change one number to keep up with the times.
 
+27 June
 
+Worked through some chapters of YDKJS.
