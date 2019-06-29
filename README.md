@@ -154,3 +154,7 @@ Bcrypt is genius because it lets you set the number of salt rounds. If you set i
 27 June
 
 Worked through some chapters of YDKJS.
+
+28 & 29
+
+More YDKJS.
