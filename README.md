@@ -158,3 +158,7 @@ Worked through some chapters of YDKJS.
 28 & 29
 
 More YDKJS.
+
+30 June
+
+Half marathon and more JavaScriptin'.
