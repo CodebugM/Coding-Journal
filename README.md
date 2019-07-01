@@ -162,3 +162,22 @@ More YDKJS.
 30 June
 
 Half marathon and more JavaScriptin'.
+
+1 July
+
+Today I continued on my Udemy course about authentication and learned about OAuth.
+
+Websites like Facebook, Google, Amazon are known for being very safe - they never get hacked because they have very high levels of security in place, like encrypting lists with hashed passwords etc.
+
+Instead of doing this as well ourselves, we can outsource this sort of service to Google or Facebook or whomever.
+
+Websites that allow you to log in with Google or Facebook, like LinkedIn etc., already use that service. By authenticating through Facebook/Google, they can access your contacts and possibly other pieces of information. This saves you the time, for example, of putting all of your contacts' email addresses into LinkedIn and instead LinkedIn will add them for you by accessing information on a third party website.
+
+In our case, we want to heighten our level of security, so we are looking to outsource the process of password authentication to companies like Facebook and Google. And we do this by using Oauth, an open standard access programme.
+
+Granular access means we only (need to) request access specific pieces of information from the user's Facebook account, like their profile and their email address. An app like Tinder might also need to have access to their list of friends in order to not accidentally match users up with one of their Facebook friends.
+
+Read only / Read+Write access means you can ask Facebook to only retrieve information about a user or for write access as well. WordPress, for example, might request write access as well, so they can post something on behalf of the user as well. 
+
+The third party you are using to access data should be able to revoke access at any point in time.  The user should be able to go into their facebook account and revoke your app's access to their profile information.
+
