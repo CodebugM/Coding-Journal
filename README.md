@@ -181,3 +181,6 @@ Read only / Read+Write access means you can ask Facebook to only retrieve inform
 
 The third party you are using to access data should be able to revoke access at any point in time.  The user should be able to go into their facebook account and revoke your app's access to their profile information.
 
+2 July
+
+Listened to a coding podcast.
