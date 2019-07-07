@@ -184,3 +184,7 @@ The third party you are using to access data should be able to revoke access at 
 2 July
 
 Listened to a coding podcast.
+
+7 July
+
+Listened to some coding podcast. Gotta get back to working on the website and the Udemy course tomorrow. 
