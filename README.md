@@ -188,3 +188,34 @@ Listened to a coding podcast.
 7 July
 
 Listened to some coding podcast. Gotta get back to working on the website and the Udemy course tomorrow. 
+
+8 July
+
+Continued on my Udemy course, learned about OAuth and the concept as well as the steps of setting up the authentication process.
+
+Step 1: Set up our app
+
+In using Google/fb to verify our users' identity, we first have to set up our app in their developer console where we will get an app ID or a client ID.
+
+Step 2: Redirect to Authenticate & Step 3: User logs in in familiar website
+
+When the user wants to log on to our website, we give them the option to log in with, say, Facebook, which then takes them to the actual Facebook website where they can log on using their Facebook credentials.
+
+Now, without OAuth we would have to ask the user specifically for their Facebook credentials, which understandably users might be hesitant to share because that seems sketchy.
+
+OAuth allows the user to log on on the actual website that they already trust as opposed to us, on our new website, asking the user for their Facebook credentials.
+
+Step 4: User grants permission
+
+Once the user logs on on that third party, they need to review the permissions our new app/website is supposed to have. For example, is it supposed to have access to only their profile, their emails address or even more etc.
+
+Step 5: Receive authorisation code
+
+Once the user has successfully logged in to Facebook, our website will receive an authorisation code from Facebook. This allows us to check whether the user has logged in successfully, i.e. whether they provided the correct user name and password. Then we can log them on to our website.
+
+Step 6: Exchange AuthCode for Access Token
+
+As a further step we can exchange the authorisation code we got from Facebook for an access token.
+
+The Access Token is valid for a lot longer than the authentication token and we can request pieces of information from Facebook in the future like the users' user names, passwords, friend lists etc.
+
