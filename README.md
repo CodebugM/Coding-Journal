@@ -219,3 +219,6 @@ As a further step we can exchange the authorisation code we got from Facebook fo
 
 The Access Token is valid for a lot longer than the authentication token and we can request pieces of information from Facebook in the future like the users' user names, passwords, friend lists etc.
 
+9 July
+
+Continued working on the Udemy course. I learned about Google OAuth, installed the npm package for Google OAuth 2.0, created a new project in the Google Developer Console and set up the credentials, learning about APIs in the process.
