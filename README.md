@@ -226,3 +226,7 @@ Continued working on the Udemy course. I learned about Google OAuth, installed t
 11 July
 
 Podcasts, website concept design 
+
+12 July
+
+Read Flavio Copes' article on making pull requests to GitHub: https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/
